@@ -1,4 +1,4 @@
-**EthicalHacking**
+**EthicalHacking: "Um exemplo de programa que busca informações de segurança em um ambiente controlado. Detalhe: deve ser utilizado apenas para fins educacionais"!!!!.**
 
 **Made by:**[Davi Icaro](https://www.linkedin.com/in/davi-icaro/)
 
@@ -25,4 +25,6 @@ Password: senha_do_trabalho_wifi**
 # ATENÇÃO!!
 
 **As informações acima representam os nomes e senhas das redes Wi-Fi encontradas e são enviadas para o webhook especificado no código Python. É importante ressaltar que o código acima é apenas um exemplo e não deve ser utilizado para fins ilegais ou sem a devida autorização.**
+
+
 
